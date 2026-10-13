@@ -1,2 +1,2 @@
 # 5-day1-assignment
-group assignments
+Sindhuja Davuluri, Soumyajyoti Datta, Breno Sader, Diego
