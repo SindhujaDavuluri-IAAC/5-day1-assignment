@@ -1,2 +1,2 @@
-# ai-methods-group5
+# 5-day1-assignment
 group assignments
